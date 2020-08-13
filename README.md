@@ -1,6 +1,6 @@
 # Heartbeat-Classification
 
-A CNN model based on classification of heartbeats into different pre-defined classes made as a group project with help from kaggle. The dataset used to train was MIT-BIH Database, downloaded from physionet.
+A CNN model based on classification of heartbeats into different pre-defined classes made as a group project with help from Arrhythmia detection model on kaggle. The dataset used to train was MIT-BIH Database, downloaded from physionet.
 Contains ECG signals, already filtered and annotated with either of the 5 heartbeats. Developed a 5 layerd convolution neural network model. 
 Achieved an accuracy of greater than 90 % on most ecg signals. 
 Modules used: SciKit, Matplotlib, numpy, panda.
